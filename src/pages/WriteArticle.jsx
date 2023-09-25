@@ -66,6 +66,7 @@ function WriteArticle() {
     setCategory(e.target.text);
   };
 
+  // adding image upload function
   // const handleFileUpload = (e) => {
   //   // console.log(e.target.files[0]);
   //   const file = e.target.files[0];
