@@ -73,7 +73,7 @@ function WriteArticle() {
   //   // console.log(formData);
   //   setCover(file);
   // };
-
+  
   const handleProcedureContentChange = (content) => {
     setBody(content);
   };
